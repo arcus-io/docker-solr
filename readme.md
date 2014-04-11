@@ -1,6 +1,6 @@
 # Apache Solr
 
-Apache Solr 4.6.0
+Apache Solr
 
 * `docker build -t solr .`
 * `docker run solr`
